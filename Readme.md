@@ -29,7 +29,10 @@
 * Wifi: ESP32 ESP8266
 * ...
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmakise&theme=monokai)
+
 
 <img src="https://komarev.com/ghpvc/?username=kmakise" alt="kmakise" />  
 
 ![](https://count.getloli.com/get/@kmakise.github.readme)
+
