@@ -1,4 +1,4 @@
-### kmakise だよ🍙  <img src="https://komarev.com/ghpvc/?username=kmakise" alt="kmakise" />  
+### kmakise だよ🍙  
 **An Embedded Engineer. Aim to become a Software and Hardware Full Stack Engineer.**
 
 **吾之目的乃是世界支配构造之变革，我们的未来道具研究所为了这个目标，必须发明出能把整个世界卷入混沌的发明。**
@@ -27,3 +27,5 @@
 * Wifi: ESP32 ESP8266
 * Zigb: CC2530 
 * ...
+
+<img src="https://komarev.com/ghpvc/?username=kmakise" alt="kmakise" />  
