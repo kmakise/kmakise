@@ -8,6 +8,7 @@
 
 ## 📇 Learning:
 
+- `StyleGAN`
 - `NXP MCU S32G`,`ESP32`
 - `Motor FOC`
 - `Kernel Linux`
