@@ -11,6 +11,7 @@
 - `StyleGAN`
 - `NXP MCU S32G`,`ESP32`
 - `Motor FOC`
+- `DSP TMS320F28335`
 - `Kernel Linux`
 - `TouchGFX`,`LVGL`
   
@@ -30,7 +31,7 @@
   - `Altear` MAXII EPM570
   - `NXP` i.MX6u S32G
   - `Nordic` NRF52832 BLE5.0 NRF52832 BLE5.1
-  - `TI` CC2530 MSP432 MSP430
+  - `TI` CC2530 MSP432 MSP430 TMS320F28335
   - `ESP` ESP8266 ESP32
   - `MicrpChip` PIC18 PIC16
   - `STC` stcXXX
